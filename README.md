@@ -4,7 +4,7 @@ Here you find a list of repositories that are relevant for industrial ecology re
 
 ## Input-Output Analysis
 
-https://github.com/IndEcol/pySUT
+https://github.com/stefanpauliuk/pySUT
 Python module for handling supply and use tables
 
 https://github.com/konstantinstadler/pymrio
