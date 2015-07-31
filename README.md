@@ -10,15 +10,15 @@ Python module for handling supply and use tables
 https://github.com/konstantinstadler/pymrio
 A python module for automating input output calculations and generating reports. The module can handle single region IO as well as MRIO.
 
-https://github.com/IndEcol/allocation_construct
+https://github.com/majeau-bettez/allocation_construct
 Python module for lifecycle assessment allocations and input-output constructs
 
-https://github.com/IndEcol/ecospold2matrix
+https://github.com/majeau-bettez/ecospold2matrix
 Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 
 ## Material Flow Analysis
 
-https://github.com/IndEcol/dynamic_stock_model
+https://github.com/stefanpauliuk/pySUT
 Python class for dynamic stock modelling
 
 ## Life Cycle Assessment
@@ -37,8 +37,8 @@ There are also additional packages for e.g. user interfaces, analysis, regionali
 
 ## Miscellaneous
 
-https://github.com/IndEcol/styles
+https://github.com/majeau-bettez/styles
 Official repository for Citation Style Language (CSL) citation styles.
 
-https://github.com/IndEcol/sci_python_template
+https://github.com/konstantinstadler/sci_python_template
 Python template for scientific scripts
