@@ -5,6 +5,9 @@ Here you find a list of repositories that are relevant for industrial ecology re
 https://github.com/citation-style-language/styles/blob/master/journal-of-industrial-ecology.csl <br>
 Official repository for Citation Style Language (CSL) citation styles.
 
+http://brightwaylca.org/ <br>
+Brightway2LCA: A new open source framework for advanced life cycle assessment calculations. It is designed to be easy to use, while still being powerful.
+
 https://github.com/konstantinstadler/sci_python_template <br>
 Python template for scientific scripts 
 
