@@ -2,26 +2,43 @@
 
 Here you find a list of repositories that are relevant for industrial ecology researchers. Feel free to add relevant content!
 
-https://github.com/citation-style-language/styles/blob/master/journal-of-industrial-ecology.csl <br>
-Official repository for Citation Style Language (CSL) citation styles.
+## Input-Output Analysis
 
-http://brightwaylca.org/ <br>
-Brightway2LCA: A new open source framework for advanced life cycle assessment calculations. It is designed to be easy to use, while still being powerful.
+https://github.com/IndEcol/pySUT
+Python module for handling supply and use tables
 
-https://github.com/konstantinstadler/sci_python_template <br>
-Python template for scientific scripts 
-
-https://github.com/konstantinstadler/pymrio <br>
+https://github.com/IndEcol/pymrio
 A python module for automating input output calculations and generating reports. The module can handle single region IO as well as MRIO.
 
-https://github.com/stefanpauliuk/dynamic_stock_model <br>
-Python module for dynamic stock modelling 
+https://github.com/IndEcol/allocation_construct
+Python module for lifecycle assessment allocations and input-output constructs
 
-https://github.com/stefanpauliuk/pySUT <br>
-Python module for handling supply and use tables 
+https://github.com/IndEcol/ecospold2matrix
+Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 
-https://github.com/majeau-bettez/allocation_construct <br>
-Python module for lifecycle assessment allocations and input-output constructs 
+## Material Flow Analysis
 
-https://github.com/majeau-bettez/ecospold2matrix <br>
-Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables 
+https://github.com/IndEcol/dynamic_stock_model
+Python class for dynamic stock modelling
+
+## Life Cycle Assessment
+
+### Brightway2
+
+Brightway2 is a framework for life cycle assessment. The main webpage is http://brightwaylca.org/.
+
+The core modules handle data management and calculation:
+
+* https://bitbucket.org/cmutel/brightway2-data/
+* https://bitbucket.org/cmutel/brightway2-calc/
+* https://bitbucket.org/cmutel/brightway2-io/
+
+There are also additional packages for e.g. user interfaces, analysis, regionalization, dynamic LCA, found on the webpage and documentation.
+
+## Miscellaneous
+
+https://github.com/IndEcol/styles
+Official repository for Citation Style Language (CSL) citation styles.
+
+https://github.com/IndEcol/sci_python_template
+Python template for scientific scripts
