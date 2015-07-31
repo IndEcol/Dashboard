@@ -1,6 +1,6 @@
 # Welcome to the industrial ecology dashboard on GitHub!
 
-Here you find a list of repositories that are relevant for industrial ecology researchers. Feel free to add relevant content!
+Here you find a list of repositories that are relevant for industrial ecology researchers. Feel free to add relevant content! 
 
 ## Input-Output Analysis
 
