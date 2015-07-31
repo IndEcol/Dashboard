@@ -2,23 +2,23 @@
 
 Here you find a list of repositories that are relevant for industrial ecology researchers. Feel free to add relevant content!
 
-https://github.com/IndEcol/styles
+https://github.com/citation-style-language/styles/blob/master/journal-of-industrial-ecology.csl <br>
 Official repository for Citation Style Language (CSL) citation styles.
 
-https://github.com/IndEcol/sci_python_template
+https://github.com/konstantinstadler/sci_python_template <br>
 Python template for scientific scripts 
 
-https://github.com/IndEcol/dynamic_stock_model
+https://github.com/stefanpauliuk/dynamic_stock_model <br>
 Python class for dynamic stock modelling 
 
-https://github.com/IndEcol/pySUT
+https://github.com/stefanpauliuk/pySUT <br>
 Python class for handling supply and use tables 
 
-https://github.com/IndEcol/pymrio
+https://github.com/konstantinstadler/pymrio <br>
 A python module for automating input output calculations and generating reports. 
 
-https://github.com/IndEcol/allocation_construct
+https://github.com/majeau-bettez/ecospold2matrix <br>
 Python module for lifecycle assessment allocations and input-output constructs 
 
-https://github.com/IndEcol/ecospold2matrix
+https://github.com/majeau-bettez/ecospold2matrix <br>
 Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables 
