@@ -7,7 +7,7 @@ Here you find a list of repositories that are relevant for industrial ecology re
 https://github.com/IndEcol/pySUT
 Python module for handling supply and use tables
 
-https://github.com/IndEcol/pymrio
+https://github.com/konstantinstadler/pymrio
 A python module for automating input output calculations and generating reports. The module can handle single region IO as well as MRIO.
 
 https://github.com/IndEcol/allocation_construct
