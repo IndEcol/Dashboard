@@ -44,4 +44,4 @@ https://github.com/konstantinstadler/sci_python_template
 Python template for scientific scripts
 
 https://github.com/konstantinstadler/country_converter
-The country converter (coco) - a Python package for converting convert country names between different classifications and between different naming versions.
+The country converter (coco) - a Python package for converting country names between different classifications and between different naming versions.
