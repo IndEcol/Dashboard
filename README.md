@@ -10,6 +10,9 @@ Python module for handling supply and use tables
 https://github.com/konstantinstadler/pymrio
 A python module for automating input output calculations and generating reports. The module can handle single region IO as well as MRIO.
 
+https://github.com/GreenDelta/usio
+Python module to create input-output tables from United States [BEA](http://www.bea.gov/) make and use tables. Written by the authors of [openLCA](http://www.openlca.org/), but can be used independently.
+
 https://github.com/majeau-bettez/allocation_construct
 Python module for lifecycle assessment allocations and input-output constructs
 
