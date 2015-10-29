@@ -21,8 +21,14 @@ Class for recasting Ecospold2 LCA dataset into Leontief matrix representations o
 
 ## Material Flow Analysis
 
+### pySUT
+
 https://github.com/stefanpauliuk/pySUT
 Python class for dynamic stock modelling
+
+### MFA Tools
+
+https://github.com/paulhoekman/mfa-tools Source code of the [MFA Tools](http://mfa-tools.net/) website. PHP/MySQL-driven website providing a centralized repository for MFA-related publications, research projects, and data. It also includes online MFA software ([OMAT](http://mfa-tools.net/omat/about)). 
 
 ## Life Cycle Assessment
 
