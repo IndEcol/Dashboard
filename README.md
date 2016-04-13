@@ -23,7 +23,7 @@ Class for recasting Ecospold2 LCA dataset into Leontief matrix representations o
 
 ### pySUT
 
-https://github.com/stefanpauliuk/pySUT
+https://github.com/stefanpauliuk/dynamic_stock_model
 Python class for dynamic stock modelling
 
 ### Metabolism of Cities
