@@ -4,6 +4,9 @@ Here you find a list of repositories that are relevant for industrial ecology re
 
 ## Input-Output Analysis
 
+https://github.com/npspringer/WorldTradeModel
+Python code for the World Trade Model, a linear programming model utilizing input-output economics.  This version includes the Rectangular Choice-of-Technology (RCOT) as well as the option to solve for bilateral trade (WTMBT)
+
 https://github.com/stefanpauliuk/pySUT
 Python module for handling supply and use tables
 
