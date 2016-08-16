@@ -70,6 +70,8 @@ On [isdata-org](https://github.com/isdata-org/) there is a collection of several
 * [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - interactive visualization of literature related to IS and EIPs
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - linked data for translating between different product and industry classifications
 
+[complexly/EIPs](https://github.com/complexly/EIPs) - "R package with network data of Eco-Industrial Park(EIP)".  Contains information in R data frames about exchanges documented in 15 different EIPs. 
+
 ### Event Sequence Analysis
 
 Software developed for the article [Building capacity for sustainable regional industrial systems: an event sequence analysis of developments in the Sloe Area and Canal Zone](http://www.sciencedirect.com/science/article/pii/S0959652614008506):
