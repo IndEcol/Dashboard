@@ -36,6 +36,8 @@ Python class for dynamic stock modelling
 
 [paulhoekman/mfa-tools](https://github.com/paulhoekman/mfa-tools) - Source code of the [Metabolism of Cities](http://metabolismofcities.org/) website. PHP/MySQL-driven website providing a centralized repository for urban metabolism-related publications, research projects, and data. It also includes online MFA software ([OMAT](http://metabolismofcities.org/omat/about)). 
 
+[tomravalde/urban-metabolism-process-database](https://github.com/tomravalde/urban-metabolism-process-database) - "A YAML database of resource management processes to support urban metabolism studies", created for the article [A Database to Facilitate a Process-Oriented Approach to Urban Metabolism](http://onlinelibrary.wiley.com/doi/10.1111/jiec.12429/abstract).
+
 ## Life Cycle Assessment
 
 ### Software
@@ -60,6 +62,20 @@ Supporting code & data for the article [Semantic catalogs for life cycle assessm
 * [bkuczenski.github.io/lca-tools-datafiles](http://bkuczenski.github.io/lca-tools-datafiles/)
 * [bkuczenski/lca-tools](https://github.com/bkuczenski/lca-tools)
 * [bkuczenski/lca-tools-datafiles](https://github.com/bkuczenski/lca-tools-datafiles)
+
+## Industrial Symbiosis / Eco-Industrial Parks
+
+On [isdata-org](https://github.com/isdata-org/) there is a collection of several repositories:
+
+* [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - interactive visualization of literature related to IS and EIPs
+* [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - linked data for translating between different product and industry classifications
+
+### Event Sequence Analysis
+
+Software developed for the article [Building capacity for sustainable regional industrial systems: an event sequence analysis of developments in the Sloe Area and Canal Zone](http://www.sciencedirect.com/science/article/pii/S0959652614008506):
+
+* [WouterSpekkink/DynamicNetworks](https://github.com/WouterSpekkink/DynamicNetworks)
+* [WouterSpekkink/EventGraphLayout_0.8.2](https://github.com/WouterSpekkink/EventGraphLayout_0.8.2)
 
 ## Miscellaneous
 
