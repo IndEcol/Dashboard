@@ -25,18 +25,6 @@ Class for recasting Ecospold2 LCA dataset into Leontief matrix representations o
 [bquast/wiod ](https://github.com/bquast/wiod) - 
 R package for "Data sets from the World Input Output database, for the years 1995-2011"
 
-## Material Flow Analysis
-
-### pySUT
-
-[stefanpauliuk/dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
-Python class for dynamic stock modelling
-
-### Metabolism of Cities
-
-[paulhoekman/mfa-tools](https://github.com/paulhoekman/mfa-tools) - Source code of the [Metabolism of Cities](http://metabolismofcities.org/) website. PHP/MySQL-driven website providing a centralized repository for urban metabolism-related publications, research projects, and data. It also includes online MFA software ([OMAT](http://metabolismofcities.org/omat/about)). 
-
-[tomravalde/urban-metabolism-process-database](https://github.com/tomravalde/urban-metabolism-process-database) - "A YAML database of resource management processes to support urban metabolism studies", created for the article [A Database to Facilitate a Process-Oriented Approach to Urban Metabolism](http://onlinelibrary.wiley.com/doi/10.1111/jiec.12429/abstract).
 
 ## Life Cycle Assessment
 
@@ -62,6 +50,19 @@ Supporting code & data for the article [Semantic catalogs for life cycle assessm
 * [bkuczenski.github.io/lca-tools-datafiles](http://bkuczenski.github.io/lca-tools-datafiles/)
 * [bkuczenski/lca-tools](https://github.com/bkuczenski/lca-tools)
 * [bkuczenski/lca-tools-datafiles](https://github.com/bkuczenski/lca-tools-datafiles)
+
+## Material Flow Analysis
+
+### Dynamic stock modelling
+
+[stefanpauliuk/dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
+Python class for dynamic stock modelling
+
+### Metabolism of Cities
+
+[paulhoekman/mfa-tools](https://github.com/paulhoekman/mfa-tools) - Source code of the [Metabolism of Cities](http://metabolismofcities.org/) website. PHP/MySQL-driven website providing a centralized repository for urban metabolism-related publications, research projects, and data. It also includes online MFA software ([OMAT](http://metabolismofcities.org/omat/about)). 
+
+[tomravalde/urban-metabolism-process-database](https://github.com/tomravalde/urban-metabolism-process-database) - "A YAML database of resource management processes to support urban metabolism studies", created for the article [A Database to Facilitate a Process-Oriented Approach to Urban Metabolism](http://onlinelibrary.wiley.com/doi/10.1111/jiec.12429/abstract).
 
 ## Industrial Symbiosis / Eco-Industrial Parks
 
