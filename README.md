@@ -7,11 +7,11 @@ Here you find a list of repositories that are relevant for industrial ecology re
 [npspringer/WorldTradeModel](https://github.com/npspringer/WorldTradeModel) - 
 Python code for the World Trade Model, a linear programming model utilizing input-output economics.  This version includes the Rectangular Choice-of-Technology (RCOT) as well as the option to solve for bilateral trade (WTMBT)
 
-[stefanpauliuk/pySUT](https://github.com/stefanpauliuk/pySUT) - 
-Python module for handling supply and use tables
-
 [konstantinstadler/pymrio](https://github.com/konstantinstadler/pymrio) - 
 A python module for automating input output calculations and generating reports. The module can handle single region IO as well as MRIO.
+
+[stefanpauliuk/pySUT](https://github.com/stefanpauliuk/pySUT) - 
+Python module for handling supply and use tables
 
 [GreenDelta/usio](https://github.com/GreenDelta/usio) - 
 Python module to create input-output tables from United States [BEA](http://www.bea.gov/) make and use tables. Written by the authors of [openLCA](http://www.openlca.org/), but can be used independently.
@@ -43,6 +43,11 @@ The core modules handle data management and calculation:
 There are also additional packages for e.g. user interfaces, analysis, regionalization, dynamic LCA, found on the webpage and documentation.
 
 ### Data
+
+#### Ocelot
+
+The [Ocelot project](https://ocelot.space/) is a joint effort by the Paul Scherrer Institut and the ecoinvent centre to build an open source library for applying system models in life cycle assessment. System models are a set of linking rules and assumptions, including how to handle activities that produce multiple outputs, how to construct markets in time and space, what products are substitutable, and who gets credit for the production of recyclable materials. 
+
 #### Semantic Catalogs of LCA Data
 
 Supporting code & data for the article [Semantic catalogs for life cycle assessment data](http://www.sciencedirect.com/science/article/pii/S0959652616311210).  This works provides a multi-database catalog of life cycle data in an open, linked-data format.
