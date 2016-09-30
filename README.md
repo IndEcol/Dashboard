@@ -63,6 +63,10 @@ Supporting code & data for the article [Semantic catalogs for life cycle assessm
 [stefanpauliuk/dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
 Python class for dynamic stock modelling
 
+[stefanpauliuk/MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
+Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
+
+
 ### Metabolism of Cities
 
 [paulhoekman/mfa-tools](https://github.com/paulhoekman/mfa-tools) - Source code of the [Metabolism of Cities](http://metabolismofcities.org/) website. PHP/MySQL-driven website providing a centralized repository for urban metabolism-related publications, research projects, and data. It also includes online MFA software ([OMAT](http://metabolismofcities.org/omat/about)). 
