@@ -30,6 +30,13 @@ R package for "Data sets from the World Input Output database, for the years 199
 
 ### Software
 
+#### openLCA
+openLCA is an open source and free software for Sustainability and Life Cycle Assessment. The main webpage is http://www.openlca.org/
+
+The source code of openLCA is hosted on GitHub: 
+
+* https://github.com/GreenDelta/olca-app
+
 #### Brightway2
 
 Brightway2 is a framework for life cycle assessment. The main webpage is http://brightwaylca.org/.
