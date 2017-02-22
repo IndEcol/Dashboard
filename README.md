@@ -37,6 +37,10 @@ The source code of openLCA is hosted on GitHub:
 
 * https://github.com/GreenDelta/olca-app
 
+There is a tutorial for accessing the openLCA API (application programming interface) with Python:
+
+* https://github.com/GreenDelta/openlca-python-tutorial
+
 #### Brightway2
 
 Brightway2 is a framework for life cycle assessment. The main webpage is http://brightwaylca.org/.
