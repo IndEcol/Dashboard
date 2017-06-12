@@ -84,6 +84,12 @@ Python model code for MaTrace Global, a supply-driven dynamic stock model to tra
 
 [tomravalde/urban-metabolism-process-database](https://github.com/tomravalde/urban-metabolism-process-database) - "A YAML database of resource management processes to support urban metabolism studies", created for the article [A Database to Facilitate a Process-Oriented Approach to Urban Metabolism](http://onlinelibrary.wiley.com/doi/10.1111/jiec.12429/abstract).
 
+### Visualisation
+
+Sankey diagramm tool for the D3.js library. Features automatic routing, loops, and reversed flows: [Acces code here](https://github.com/ricklupton/d3-sankey-diagram). [View example here](https://ricklupton.github.io/d3-sankey-diagram/). [IPython widget for the d3 Sankey plugin](https://github.com/ricklupton/ipython-d3-sankey). [Display Sankey diagrams in IPython / Jupyter notebook using d3-sankey-diagram.](https://github.com/ricklupton/ipysankeywidget)
+
+
+
 ## Industrial Symbiosis / Eco-Industrial Parks
 
 On [isdata-org](https://github.com/isdata-org/) there is a collection of several repositories:
