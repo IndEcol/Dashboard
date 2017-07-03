@@ -69,6 +69,12 @@ Supporting code & data for the article [Semantic catalogs for life cycle assessm
 
 ## Material Flow Analysis
 
+### Data reconciliation and probabilistic modelling
+
+[PYMFA 2.1 by Esther Thiébaud at EMPA](https://bitbucket.org/Xeelk/pymfa2/src) - 
+Tool for probabilistic modelling of dynamic MFA studies
+
+
 ### Dynamic stock modelling
 
 [stefanpauliuk/dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
