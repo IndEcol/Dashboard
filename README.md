@@ -8,6 +8,7 @@ Here you find a list of repositories that are relevant for industrial ecology re
 * [Material Flow Analysis](#material-flow-analysis)
 * [Industrial Symbiosis / Eco-Industrial Parks](#industrial-symbiosis--eco-industrial-parks)
 * [Miscellaneous](#miscellaneous)
+* [Models from other commmunities](#Models-from-other-communities)
 
 ## Input-Output Analysis
 
@@ -130,3 +131,13 @@ Python template for scientific scripts
 
 [konstantinstadler/country_converter](https://github.com/konstantinstadler/country_converter) - 
 The country converter (coco) - a Python package for converting country names between different classifications and between different naming versions.
+
+## Models from other communities
+
+### Global Change Assessment Model (GCAM) 
+The Joint Global Change Research Institute (JGCRI) is the home and primary development institution for GCAM, an integrated assessment tool for exploring consequences and responses to global change. GCAM is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology. GCAM has been used to explore the potential role of emerging energy supply technologies and the greenhouse gas consequences of specific policy measures or energy technology adoption including; CO2 capture and storage, bioenergy, hydrogen systems, nuclear energy, renewable energy technology, and energy use technology in buildings, industry and the transportation sectors. GCAM is an Representative Concentration Pathway (RCP)-class model.
+
+* [GCAM Documentation](http://jgcri.github.io/gcam-doc/)
+* [Getting Started with GCAM](http://jgcri.github.io/gcam-doc/user-guide.html)
+* [GCAM Community](http://www.globalchange.umd.edu/models/gcam/gcam-community/)
+* [2015 Tutorial Slides](http://www.globalchange.umd.edu/data/annual-meetings/2015/GCAM_Tutorial_2015.pdf)
