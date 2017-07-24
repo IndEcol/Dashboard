@@ -121,7 +121,7 @@ Software developed for the article [Building capacity for sustainable regional i
 * [WouterSpekkink/DynamicNetworks](https://github.com/WouterSpekkink/DynamicNetworks)
 * [WouterSpekkink/EventGraphLayout_0.8.2](https://github.com/WouterSpekkink/EventGraphLayout_0.8.2)
 
-## Miscellaneous
+## Miscellaneous 
 
 [majeau-bettez/styles](https://github.com/majeau-bettez/styles) - 
 Official repository for Citation Style Language (CSL) citation styles.
@@ -132,7 +132,7 @@ Python template for scientific scripts
 [konstantinstadler/country_converter](https://github.com/konstantinstadler/country_converter) - 
 The country converter (coco) - a Python package for converting country names between different classifications and between different naming versions.
 
-## Models from other communities
+## <a name="Models-from-other-communities"></a> Models from other communities
 
 ### Global Change Assessment Model (GCAM) 
 The Joint Global Change Research Institute (JGCRI) is the home and primary development institution for GCAM, an integrated assessment tool for exploring consequences and responses to global change. GCAM is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology. GCAM has been used to explore the potential role of emerging energy supply technologies and the greenhouse gas consequences of specific policy measures or energy technology adoption including; CO2 capture and storage, bioenergy, hydrogen systems, nuclear energy, renewable energy technology, and energy use technology in buildings, industry and the transportation sectors. GCAM is an Representative Concentration Pathway (RCP)-class model.
