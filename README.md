@@ -2,6 +2,13 @@
 
 Here you find a list of repositories that are relevant for industrial ecology researchers. Feel free to add relevant content! 
 
+## Contents
+* [Input-Output Analysis](#input-output-analysis)
+* [Life Cycle Assessment](#life-cycle-assessment)
+* [Material Flow Analysis](#material-flow-analysis)
+* [Industrial Symbiosis / Eco-Industrial Parks](#industrial-symbiosis--eco-industrial-parks)
+* [Miscellaneous](#miscellaneous)
+
 ## Input-Output Analysis
 
 [npspringer/WorldTradeModel](https://github.com/npspringer/WorldTradeModel) - 
@@ -31,15 +38,11 @@ R package for "Data sets from the World Input Output database, for the years 199
 ### Software
 
 #### openLCA
-openLCA is an open source and free software for Sustainability and Life Cycle Assessment. The main webpage is http://www.openlca.org/
+[openLCA](http://www.openlca.org/) is an open source and free software for Sustainability and Life Cycle Assessment. 
 
-The source code of openLCA is hosted on GitHub: 
-
-* https://github.com/GreenDelta/olca-app
-
-There is a tutorial for accessing the openLCA API (application programming interface) with Python:
-
-* https://github.com/GreenDelta/openlca-python-tutorial
+* [Main webpage](http://www.openlca.org/)
+* [Source code](https://github.com/GreenDelta/olca-app)
+* [Tutorial for accessing the openLCA API (application programming interface) with Python](https://github.com/GreenDelta/openlca-python-tutorial)
 
 #### Brightway2
 
@@ -74,6 +77,7 @@ Supporting code & data for the article [Semantic catalogs for life cycle assessm
 [PYMFA 2.1 by Esther Thiébaud at EMPA](https://bitbucket.org/Xeelk/pymfa2/src) - 
 Tool for probabilistic modelling of dynamic MFA studies
 
+[ricklupton/bayesian-mfa-paper](https://github.com/ricklupton/bayesian-mfa-paper) - Code and data supporting the paper "Incremental Material Flow Analysis with Bayesian Inference" 
 
 ### Dynamic stock modelling
 
@@ -92,8 +96,11 @@ Python model code for MaTrace Global, a supply-driven dynamic stock model to tra
 
 ### Visualisation
 
-Sankey diagramm tool for the D3.js library. Features automatic routing, loops, and reversed flows: [Acces code here](https://github.com/ricklupton/d3-sankey-diagram). [View example here](https://ricklupton.github.io/d3-sankey-diagram/). [IPython widget for the d3 Sankey plugin](https://github.com/ricklupton/ipython-d3-sankey). [Display Sankey diagrams in IPython / Jupyter notebook using d3-sankey-diagram.](https://github.com/ricklupton/ipysankeywidget)
-
+[ricklupton/d3-sankey-diagram](https://github.com/ricklupton/d3-sankey-diagram) - Sankey diagram tool for the D3.js library. Features automatic routing, loops, and reversed flows.
+* [Source code](https://github.com/ricklupton/d3-sankey-diagram)
+* [Examples](https://ricklupton.github.io/d3-sankey-diagram/)
+* [IPython widget for the d3 Sankey plugin](https://github.com/ricklupton/ipython-d3-sankey)
+* [Display Sankey diagrams in IPython / Jupyter notebook using d3-sankey-diagram](https://github.com/ricklupton/ipysankeywidget)
 
 
 ## Industrial Symbiosis / Eco-Industrial Parks
@@ -102,6 +109,7 @@ On [isdata-org](https://github.com/isdata-org/) there is a collection of several
 
 * [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - interactive visualization of literature related to IS and EIPs
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - linked data for translating between different product and industry classifications
+* [isdata-org/awesome-industrial-symbiosis](https://github.com/isdata-org/awesome-industrial-symbiosis/) - links to data sources relevant for Industrial Symbiosis
 
 [complexly/EIPs](https://github.com/complexly/EIPs) - "R package with network data of Eco-Industrial Park(EIP)".  Contains information in R data frames about exchanges documented in 15 different EIPs. 
 
