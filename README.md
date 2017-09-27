@@ -59,6 +59,10 @@ There are also additional packages for e.g. user interfaces, analysis, regionali
 
 ### Data
 
+#### Wurst
+
+[Wurst](https://github.com/IndEcol/wurst) is a tool for linking and modifying industrial ecology models, with a focus on sparse matrices in life cycle assessment. It is used to add new data (e.g. better region-specific) or future scenarios to inventory databases in a reproducible and self-documenting fashion. Where is also a [Wurst examples](https://github.com/IndEcol/wurst-examples) repository.
+
 #### Ocelot
 
 The [Ocelot project](https://ocelot.space/) is a joint effort by the Paul Scherrer Institut and the ecoinvent centre to build an open source library for applying system models in life cycle assessment. System models are a set of linking rules and assumptions, including how to handle activities that produce multiple outputs, how to construct markets in time and space, what products are substitutable, and who gets credit for the production of recyclable materials. 
