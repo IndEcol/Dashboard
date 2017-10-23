@@ -7,6 +7,7 @@ Here you find a list of repositories that are relevant for industrial ecology re
 * [Life Cycle Assessment](#life-cycle-assessment)
 * [Material Flow Analysis](#material-flow-analysis)
 * [Industrial Symbiosis / Eco-Industrial Parks](#industrial-symbiosis--eco-industrial-parks)
+* [Collaboration initiatives and platforms](#Collaboration initiatives and platforms)
 * [Miscellaneous](#miscellaneous)
 * [Models from other commmunities](#Models-from-other-communities)
 
@@ -124,6 +125,12 @@ Software developed for the article [Building capacity for sustainable regional i
 
 * [WouterSpekkink/DynamicNetworks](https://github.com/WouterSpekkink/DynamicNetworks)
 * [WouterSpekkink/EventGraphLayout_0.8.2](https://github.com/WouterSpekkink/EventGraphLayout_0.8.2)
+
+## Collaboration initiatives and platforms
+
+BONSAI (Big Open Network for Sustainability Assessment Information) is an open project to create a framework for supplying reliable, unbiased sustainability information on products – “product footprints” – readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
+* [BONSAI Homepate](https://bonsai.uno/)
+* [BONSAI code and Wiki](http://jgcri.github.io/gcam-doc/)
 
 ## Miscellaneous 
 
