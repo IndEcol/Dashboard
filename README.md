@@ -19,8 +19,11 @@ Python code for the World Trade Model, a linear programming model utilizing inpu
 [konstantinstadler/pymrio](https://github.com/konstantinstadler/pymrio) - 
 A python module for automating input output calculations and generating reports. The module can handle single region IO as well as MRIO.
 
+[R|E|A|L PyIO](http://www.real.illinois.edu/pyio/) - 
+PyIO is a module for Input-Output analysis, written in Python, a general-purpose open source computer programming language. Next to standard IO techniques PyIO also features matrix updating with the RAS method, key sector analysis, output decomposition analysis, and multiplier product matrix analysis.
+
 [stefanpauliuk/pySUT](https://github.com/stefanpauliuk/pySUT) - 
-Python module for handling supply and use tables
+Python module for handling supply and use tables and building IO tables from raw data.
 
 [GreenDelta/usio](https://github.com/GreenDelta/usio) - 
 Python module to create input-output tables from United States [BEA](http://www.bea.gov/) make and use tables. Written by the authors of [openLCA](http://www.openlca.org/), but can be used independently.
@@ -126,13 +129,13 @@ Software developed for the article [Building capacity for sustainable regional i
 * [WouterSpekkink/DynamicNetworks](https://github.com/WouterSpekkink/DynamicNetworks)
 * [WouterSpekkink/EventGraphLayout_0.8.2](https://github.com/WouterSpekkink/EventGraphLayout_0.8.2)
 
-## Collaboration initiatives and data sharing platforms
+## <a name="Collaboration-initiatives-and-data-sharing-platforms"></a> Collaboration initiatives and data sharing platforms
 
 BONSAI (Big Open Network for Sustainability Assessment Information) is an open project to create a framework for supplying reliable, unbiased sustainability information on products – “product footprints” – readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
 * [BONSAI Homepage](https://bonsai.uno/)
 * [BONSAI code and Wiki](https://github.com/BONSAMURAIS/bonsai)
 
-## Miscellaneous 
+## <a name="miscellaneous"></a> Miscellaneous 
 
 [majeau-bettez/styles](https://github.com/majeau-bettez/styles) - 
 Official repository for Citation Style Language (CSL) citation styles.
