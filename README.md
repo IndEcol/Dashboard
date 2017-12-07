@@ -61,6 +61,8 @@ The core modules handle data management and calculation:
 
 There are also additional packages for e.g. user interfaces, analysis, regionalization, dynamic LCA, found on the webpage and documentation.
 
+The [LCA-ActivityBrowser](https://github.com/LCA-ActivityBrowser/activity-browser) serves as GUI for Brightway2.
+
 ### Data
 
 #### Wurst
@@ -88,14 +90,15 @@ Tool for probabilistic modelling of dynamic MFA studies
 
 [ricklupton/bayesian-mfa-paper](https://github.com/ricklupton/bayesian-mfa-paper) - Code and data supporting the paper "Incremental Material Flow Analysis with Bayesian Inference" 
 
-### Dynamic stock modelling
+### Dynamic MFA and dynamic stock modelling
 
 [stefanpauliuk/dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
-Python class for dynamic stock modelling
+Python class for dynamic stock modelling. Supports inflow-driven and stock-driven models.
 
 [stefanpauliuk/MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
 
+[dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample. 
 
 ### Metabolism of Cities
 
