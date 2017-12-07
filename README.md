@@ -158,3 +158,8 @@ The Joint Global Change Research Institute (JGCRI) is the home and primary devel
 * [Getting Started with GCAM](http://jgcri.github.io/gcam-doc/user-guide.html)
 * [GCAM Community](http://www.globalchange.umd.edu/models/gcam/gcam-community/)
 * [2015 Tutorial Slides](http://www.globalchange.umd.edu/data/annual-meetings/2015/GCAM_Tutorial_2015.pdf)
+
+### Open Energy Modelling Framework (oemof)
+The Open Energy System Modelling Framework (oemof) provides a free, open source and clearly documented toolbox to analyse energy supply systems. It is developed in Python and designed as a framework with a modular structure containing several packages which communicate through well defined interfaces.
+
+* [oemof - Base packages for energy system modelling and optimisation](https://github.com/oemof/oemof)
