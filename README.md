@@ -114,6 +114,7 @@ Python model code for MaTrace Global, a supply-driven dynamic stock model to tra
 * [IPython widget for the d3 Sankey plugin](https://github.com/ricklupton/ipython-d3-sankey)
 * [Display Sankey diagrams in IPython / Jupyter notebook using d3-sankey-diagram](https://github.com/ricklupton/ipysankeywidget)
 
+[tomshanley/d3-sankey-circular](https://github.com/tomshanley/d3-sankey-circular) - A fork of the d3-sankey library to allow circular links. 
 
 ## Industrial Symbiosis / Eco-Industrial Parks
 
