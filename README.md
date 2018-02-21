@@ -37,6 +37,8 @@ Class for recasting Ecospold2 LCA dataset into Leontief matrix representations o
 [bquast/wiod ](https://github.com/bquast/wiod) - 
 R package for "Data sets from the World Input Output database, for the years 1995-2011"
 
+[usepa/IO-Model-Builder](https://github.com/usepa/io-model-builder/) - 
+iomb is an open source Python library for creating environmentally extended input-output models (EEIO models) from CSV files in a simple data format. It includes functions to calculate different result types (e.g. life cycle assessment results, direct and upstream contributions, etc.) from such models and convert them into JSON-LD data packages that can be imported into openLCA.
 
 ## Life Cycle Assessment
 
