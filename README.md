@@ -94,10 +94,13 @@ Tool for probabilistic modelling of dynamic MFA studies
 
 ### Dynamic MFA and dynamic stock modelling
 
-[stefanpauliuk/dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
+[ODYM](https://github.com/IndEcol/ODYM) - 
+Open dynamic material systems model (ODYM). Framework for dynamic MFA models with multiple aspects (products, regions, materials, alloys, elements, ...). Python classes for MFA systems, stocks, flows, model parameters, and dynamic stock modelling. Platform for organizing MFA systems and data to build custom-made MFA models of any resolution and complexity.
+
+[dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
 Python class for dynamic stock modelling. Supports inflow-driven and stock-driven models.
 
-[stefanpauliuk/MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
+[MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
 
 [dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample. 
@@ -168,3 +171,9 @@ The Joint Global Change Research Institute (JGCRI) is the home and primary devel
 The Open Energy System Modelling Framework (oemof) provides a free, open source and clearly documented toolbox to analyse energy supply systems. It is developed in Python and designed as a framework with a modular structure containing several packages which communicate through well defined interfaces.
 
 * [oemof - Base packages for energy system modelling and optimisation](https://github.com/oemof/oemof)
+
+### The MESSAGEix framework
+MESSAGEix is a versatile, open-source, dynamic systems-optimization model. It was developed for strategic energy planning and integrated assessment of energy-engineering-economy-environment systems. It can be applied to analyse scenarios of the energy system transformation under technical-engineering constraints and political-societal considerations. The optimization model can be linked to the general-economy MACRO model to incorporate feedback between prices and demand levels for energy and commodities. The equations are implemented in the mathematical programming system GAMS for numerical solution of a model instance.
+
+* [MESSAGEix framework docu](http://messageix.iiasa.ac.at/)
+* [MESSAGEix model code](https://github.com/iiasa/message_ix/tree/master)
