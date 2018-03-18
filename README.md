@@ -148,6 +148,9 @@ BONSAI (Big Open Network for Sustainability Assessment Information) is an open p
 
 ## <a name="miscellaneous"></a> Miscellaneous 
 
+[cfrancois7/IEO-ontology](https://github.com/cfrancois7/IEO-ontology) - 
+The Industrial Ecology Ontology(IEO): the ontology to represent the knowledge of the Industrial Ecology. Includes the different knowledge items of life cycle assessment (LCA), Supply-Use Tables (SUT) and Input-Output Tables (IOT).
+
 [majeau-bettez/styles](https://github.com/majeau-bettez/styles) - 
 Official repository for Citation Style Language (CSL) citation styles.
 
