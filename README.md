@@ -65,6 +65,20 @@ There are also additional packages for e.g. user interfaces, analysis, regionali
 
 The [LCA-ActivityBrowser](https://github.com/LCA-ActivityBrowser/activity-browser) serves as GUI for Brightway2.
 
+#### Lcopt
+
+Lcopt (**L**ife **C**ycle **opt**ions appraisal) is an LCA foreground modelling tool (written in Python) with a GUI which runs in a web browser. It can be used to generate fully parameterised LCA foreground models with multiple scenarios. The models can be analysed (using the Brightway2 framework) and the results visualised from within the GUI.
+
+* [*Getting started* Video](http://lcopt.readthedocs.io/en/latest/2_Getting_Started.html#video)
+* [Main website/documentation](http://lcopt.readthedocs.io)
+* [Source code (published version)](https://github.com/pjamesjoyce/lcopt)
+* [Source code (development version)](https://github.com/pjamesjoyce/lcopt/tree/development) - new features (including faster calculation, mass flow sankey diagram, import of existing models as `BW2Package` file) added, with more [in the works](https://github.com/pjamesjoyce/lcopt/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+
+
+#### Lcopt-cv
+
+[Lcopt-cv](https://github.com/pjamesjoyce/lcopt_cv) is an experimental piece of software which lets you take a photo of a hand-drawn process flow chart and, using computer vision techniques, automatically turns it into a working LCA foreground model. The LCA model it generates can be visualised/edited in [lcopt](http://lcopt.readthedocs.io) and analysed using [Brightway2](http://brightwaylca.org/).
+
 ### Data
 
 #### Wurst
