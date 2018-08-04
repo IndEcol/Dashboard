@@ -166,6 +166,10 @@ BONSAI (Big Open Network for Sustainability Assessment Information) is an open p
 
 [nheeren/liberated_data](https://github.com/nheeren/liberated_data) – A platform to share the data that you so diligently extracted from figures, tables, etc. in publications.
 
+### Industrial Ecology Data Commons (IEDC)
+
+[IndEcol/IE_data_commons](https://github.com/IndEcol/IE_data_commons) – A general, cross-method data model and relational database structure for socioeconomic metabolism and industrial ecology research.
+
 ## <a name="miscellaneous"></a> Miscellaneous 
 
 [cfrancois7/IEO-ontology](https://github.com/cfrancois7/IEO-ontology) - 
