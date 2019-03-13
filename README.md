@@ -34,14 +34,20 @@ Python module for lifecycle assessment allocations and input-output constructs
 [majeau-bettez/ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - 
 Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 
-[bquast/wiod ](https://github.com/bquast/wiod) - 
+[bquast/wiod](https://github.com/bquast/wiod) - 
 R package for "Data sets from the World Input Output database, for the years 1995-2011"
+
+[martinbruckner/WIOD_SPA](https://github.com/martinbruckner/WIOD_SPA) - 
+This repository provides R scripts for a Structural Path Analysis with WIOD. Please note that the SPA done here only goes until the third step of supply chains, i.e. the second level indirect inputs.
 
 [usepa/IO-Model-Builder](https://github.com/usepa/io-model-builder/) - 
 iomb is an open source Python library for creating environmentally extended input-output models (EEIO models) from CSV files in a simple data format. It includes functions to calculate different result types (e.g. life cycle assessment results, direct and upstream contributions, etc.) from such models and convert them into JSON-LD data packages that can be imported into openLCA.
 
 [Paradiso-Project](https://github.com/haasad/PyPardisoProject) -
 Python interface to the Intel MKL Pardiso library to solve large sparse linear systems of equations. Use PyPardiso with the anaconda python distribution (use miniconda if you need to install it). PyPardiso makes use of the Intel Math Kernel Library that is included for free with conda and therefore doesn't work with other distributions (at least for the moment).
+
+[abhoopathy/spa_viz](https://github.com/abhoopathy/spa_viz) - 
+Structural path analysis visualizer. A project for H. Scott Matthews of the Carnegie Mellon Civil Engineering Department. 
 
 ## Life Cycle Assessment
 
