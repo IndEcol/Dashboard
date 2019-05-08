@@ -7,6 +7,7 @@ Here you find a list of repositories that are relevant for industrial ecology re
 * [Life Cycle Assessment](#life-cycle-assessment)
 * [Material Flow Analysis](#material-flow-analysis)
 * [Industrial Symbiosis / Eco-Industrial Parks](#industrial-symbiosis--eco-industrial-parks)
+* [Collaboration initiatives and data sharing platforms](#Collaboration-initiatives-and-data-sharing-platforms)
 * [Miscellaneous](#miscellaneous)
 * [Models from other commmunities](#Models-from-other-communities)
 
@@ -18,8 +19,11 @@ Python code for the World Trade Model, a linear programming model utilizing inpu
 [konstantinstadler/pymrio](https://github.com/konstantinstadler/pymrio) - 
 A python module for automating input output calculations and generating reports. The module can handle single region IO as well as MRIO.
 
+[R|E|A|L PyIO](http://www.real.illinois.edu/pyio/) - 
+PyIO is a module for Input-Output analysis, written in Python, a general-purpose open source computer programming language. Next to standard IO techniques PyIO also features matrix updating with the RAS method, key sector analysis, output decomposition analysis, and multiplier product matrix analysis.
+
 [stefanpauliuk/pySUT](https://github.com/stefanpauliuk/pySUT) - 
-Python module for handling supply and use tables
+Python module for handling supply and use tables and building IO tables from raw data.
 
 [GreenDelta/usio](https://github.com/GreenDelta/usio) - 
 Python module to create input-output tables from United States [BEA](http://www.bea.gov/) make and use tables. Written by the authors of [openLCA](http://www.openlca.org/), but can be used independently.
@@ -30,9 +34,20 @@ Python module for lifecycle assessment allocations and input-output constructs
 [majeau-bettez/ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - 
 Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 
-[bquast/wiod ](https://github.com/bquast/wiod) - 
+[bquast/wiod](https://github.com/bquast/wiod) - 
 R package for "Data sets from the World Input Output database, for the years 1995-2011"
 
+[martinbruckner/WIOD_SPA](https://github.com/martinbruckner/WIOD_SPA) - 
+This repository provides R scripts for a Structural Path Analysis with WIOD. Please note that the SPA done here only goes until the third step of supply chains, i.e. the second level indirect inputs.
+
+[usepa/IO-Model-Builder](https://github.com/usepa/io-model-builder/) - 
+iomb is an open source Python library for creating environmentally extended input-output models (EEIO models) from CSV files in a simple data format. It includes functions to calculate different result types (e.g. life cycle assessment results, direct and upstream contributions, etc.) from such models and convert them into JSON-LD data packages that can be imported into openLCA.
+
+[Paradiso-Project](https://github.com/haasad/PyPardisoProject) -
+Python interface to the Intel MKL Pardiso library to solve large sparse linear systems of equations. Use PyPardiso with the anaconda python distribution (use miniconda if you need to install it). PyPardiso makes use of the Intel Math Kernel Library that is included for free with conda and therefore doesn't work with other distributions (at least for the moment).
+
+[abhoopathy/spa_viz](https://github.com/abhoopathy/spa_viz) - 
+Structural path analysis visualizer. A project for H. Scott Matthews of the Carnegie Mellon Civil Engineering Department. 
 
 ## Life Cycle Assessment
 
@@ -56,6 +71,22 @@ The core modules handle data management and calculation:
 * [cmutel/brightway2-io/](https://bitbucket.org/cmutel/brightway2-io/)
 
 There are also additional packages for e.g. user interfaces, analysis, regionalization, dynamic LCA, found on the webpage and documentation.
+
+The [LCA-ActivityBrowser](https://github.com/LCA-ActivityBrowser/activity-browser) serves as GUI for Brightway2.
+
+#### Lcopt
+
+Lcopt (**L**ife **C**ycle **opt**ions appraisal) is an LCA foreground modelling tool (written in Python) with a GUI which runs in a web browser. It can be used to generate fully parameterised LCA foreground models with multiple scenarios. The models can be analysed (using the Brightway2 framework) and the results visualised from within the GUI.
+
+* [*Getting started* Video](http://lcopt.readthedocs.io/en/latest/2_Getting_Started.html#video)
+* [Main website/documentation](http://lcopt.readthedocs.io)
+* [Source code (published version)](https://github.com/pjamesjoyce/lcopt)
+* [Source code (development version)](https://github.com/pjamesjoyce/lcopt/tree/development) - new features (including faster calculation, mass flow sankey diagram, import of existing models as `BW2Package` file) added, with more [in the works](https://github.com/pjamesjoyce/lcopt/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+
+
+#### Lcopt-cv
+
+[Lcopt-cv](https://github.com/pjamesjoyce/lcopt_cv) is an experimental piece of software which lets you take a photo of a hand-drawn process flow chart and, using computer vision techniques, automatically turns it into a working LCA foreground model. The LCA model it generates can be visualised/edited in [lcopt](http://lcopt.readthedocs.io) and analysed using [Brightway2](http://brightwaylca.org/).
 
 ### Data
 
@@ -84,14 +115,18 @@ Tool for probabilistic modelling of dynamic MFA studies
 
 [ricklupton/bayesian-mfa-paper](https://github.com/ricklupton/bayesian-mfa-paper) - Code and data supporting the paper "Incremental Material Flow Analysis with Bayesian Inference" 
 
-### Dynamic stock modelling
+### Dynamic MFA and dynamic stock modelling
 
-[stefanpauliuk/dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
-Python class for dynamic stock modelling
+[ODYM](https://github.com/IndEcol/ODYM) - 
+Open dynamic material systems model (ODYM). Framework for dynamic MFA models with multiple aspects (products, regions, materials, alloys, elements, ...). Python classes for MFA systems, stocks, flows, model parameters, and dynamic stock modelling. Platform for organizing MFA systems and data to build custom-made MFA models of any resolution and complexity.
 
-[stefanpauliuk/MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
+[dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
+Python class for dynamic stock modelling. Supports inflow-driven and stock-driven models.
+
+[MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
 
+[dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample. 
 
 ### Metabolism of Cities
 
@@ -104,9 +139,12 @@ Python model code for MaTrace Global, a supply-driven dynamic stock model to tra
 [ricklupton/d3-sankey-diagram](https://github.com/ricklupton/d3-sankey-diagram) - Sankey diagram tool for the D3.js library. Features automatic routing, loops, and reversed flows.
 * [Source code](https://github.com/ricklupton/d3-sankey-diagram)
 * [Examples](https://ricklupton.github.io/d3-sankey-diagram/)
-* [IPython widget for the d3 Sankey plugin](https://github.com/ricklupton/ipython-d3-sankey)
 * [Display Sankey diagrams in IPython / Jupyter notebook using d3-sankey-diagram](https://github.com/ricklupton/ipysankeywidget)
 
+[ricklupton/floweaver](https://github.com/ricklupton/floweaver) - floWeaver takes a database of flow data and transforms it into a Sankey diagram.
+* [floWeaver's documentation and news](https://floweaver.readthedocs.io/en/latest/)
+
+[tomshanley/d3-sankey-circular](https://github.com/tomshanley/d3-sankey-circular) - A fork of the d3-sankey library to allow circular links. 
 
 ## Industrial Symbiosis / Eco-Industrial Parks
 
@@ -125,7 +163,26 @@ Software developed for the article [Building capacity for sustainable regional i
 * [WouterSpekkink/DynamicNetworks](https://github.com/WouterSpekkink/DynamicNetworks)
 * [WouterSpekkink/EventGraphLayout_0.8.2](https://github.com/WouterSpekkink/EventGraphLayout_0.8.2)
 
-## Miscellaneous 
+## <a name="Collaboration-initiatives-and-data-sharing-platforms"></a> Collaboration initiatives and data sharing platforms
+
+### BONSAI
+
+BONSAI (Big Open Network for Sustainability Assessment Information) is an open project to create a framework for supplying reliable, unbiased sustainability information on products – “product footprints” – readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
+* [BONSAI Homepage](https://bonsai.uno/)
+* [BONSAI code and Wiki](https://github.com/BONSAMURAIS/bonsai)
+
+### Liberated data 
+
+[nheeren/liberated_data](https://github.com/nheeren/liberated_data) – A platform to share the data that you so diligently extracted from figures, tables, etc. in publications.
+
+### Industrial Ecology Data Commons (IEDC)
+
+[IndEcol/IE_data_commons](https://github.com/IndEcol/IE_data_commons) – A general, cross-method data model and relational database structure for socioeconomic metabolism and industrial ecology research.
+
+## <a name="miscellaneous"></a> Miscellaneous 
+
+[cfrancois7/IEO-ontology](https://github.com/cfrancois7/IEO-ontology) - 
+The Industrial Ecology Ontology(IEO): the ontology to represent the knowledge of the Industrial Ecology. Includes the different knowledge items of life cycle assessment (LCA), Supply-Use Tables (SUT) and Input-Output Tables (IOT).
 
 [majeau-bettez/styles](https://github.com/majeau-bettez/styles) - 
 Official repository for Citation Style Language (CSL) citation styles.
@@ -145,3 +202,14 @@ The Joint Global Change Research Institute (JGCRI) is the home and primary devel
 * [Getting Started with GCAM](http://jgcri.github.io/gcam-doc/user-guide.html)
 * [GCAM Community](http://www.globalchange.umd.edu/models/gcam/gcam-community/)
 * [2015 Tutorial Slides](http://www.globalchange.umd.edu/data/annual-meetings/2015/GCAM_Tutorial_2015.pdf)
+
+### Open Energy Modelling Framework (oemof)
+The Open Energy System Modelling Framework (oemof) provides a free, open source and clearly documented toolbox to analyse energy supply systems. It is developed in Python and designed as a framework with a modular structure containing several packages which communicate through well defined interfaces.
+
+* [oemof - Base packages for energy system modelling and optimisation](https://github.com/oemof/oemof)
+
+### The MESSAGEix framework
+MESSAGEix is a versatile, open-source, dynamic systems-optimization model. It was developed for strategic energy planning and integrated assessment of energy-engineering-economy-environment systems. It can be applied to analyse scenarios of the energy system transformation under technical-engineering constraints and political-societal considerations. The optimization model can be linked to the general-economy MACRO model to incorporate feedback between prices and demand levels for energy and commodities. The equations are implemented in the mathematical programming system GAMS for numerical solution of a model instance.
+
+* [MESSAGEix framework docu](http://messageix.iiasa.ac.at/)
+* [MESSAGEix model code](https://github.com/iiasa/message_ix/tree/master)
