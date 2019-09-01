@@ -179,6 +179,12 @@ BONSAI (Big Open Network for Sustainability Assessment Information) is an open p
 
 [IndEcol/IE_data_commons](https://github.com/IndEcol/IE_data_commons) – A general, cross-method data model and relational database structure for socioeconomic metabolism and industrial ecology research.
 
+### Material Intensity Database Project
+
+[nheeren/material_intensity_db](https://github.com/nheeren/material_intensity_db) – A database seed for a community-driven material intensity research platform ([publication](https://www.nature.com/articles/s41597-019-0021-x))
+
+So far it contains approximaterly 300 material intensity datasets in kg/m2. This project is designed to be colaborative and should be extended to other material intensity data, e.g. for roads, infrastructure, etc. in the future. _Please consider contributing your MI data, code, or further analysis!_
+
 ## <a name="miscellaneous"></a> Miscellaneous 
 
 [cfrancois7/IEO-ontology](https://github.com/cfrancois7/IEO-ontology) - 
