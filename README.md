@@ -63,6 +63,9 @@ Python package for structural input-output analysis of dissipative systems (eith
 [CIRAIG/OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) -
 Python to create symmetric Environmentally Extended Input-Output tables for Canada.
 
+[USEPA/IO-Model-Builder](https://github.com/USEPA/IO-Model-Builder) -
+Python library for creating environmentally extended input-output models (EEIO models) from CSV files in a simple data format + functions to calculate different result types (e.g. LCA, ...) from such models and convert them into JSON-LD data packages that can be imported into openLCA.
+
 ## Life Cycle Assessment
 
 ### Software
