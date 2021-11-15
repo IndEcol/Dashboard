@@ -152,6 +152,9 @@ Python model code for MaTrace Global, a supply-driven dynamic stock model to tra
 
 [dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample. 
 
+[Xeelk/pymfa2](https://bitbucket.org/Xeelk/pymfa2/src/master/) -
+Tool for probabilistic modelling of dynamic MFA studies
+
 ### Metabolism of Cities
 
 [paulhoekman/mfa-tools](https://github.com/paulhoekman/mfa-tools) - Source code of the [Metabolism of Cities](http://metabolismofcities.org/) website. PHP/MySQL-driven website providing a centralized repository for urban metabolism-related publications, research projects, and data. It also includes online MFA software ([OMAT](http://metabolismofcities.org/omat/about)). 
