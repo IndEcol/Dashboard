@@ -57,6 +57,9 @@ MATLAB-scripts used to estimate uncertainties in the economic data in some of th
 [kswiebe/FEMRIOv1_EXIOfuturesIEAETP](https://github.com/kswiebe/GMRIOuncertainties) - 
 Forward-looking Environmentally-extended Multi-Regional Input-Output model based on EXIOBASE3 and scenarios from the IEA ETP 2015
 
+[a-altimiras-martin/MetabX](https://github.com/a-altimiras-martin/MetabX) -
+Python package for structural input-output analysis of dissipative systems (either economic or ecological)
+
 ## Life Cycle Assessment
 
 ### Software
