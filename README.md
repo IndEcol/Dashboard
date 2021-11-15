@@ -96,6 +96,10 @@ Lcopt (**L**ife **C**ycle **opt**ions appraisal) is an LCA foreground modelling 
 
 [Lcopt-cv](https://github.com/pjamesjoyce/lcopt_cv) is an experimental piece of software which lets you take a photo of a hand-drawn process flow chart and, using computer vision techniques, automatically turns it into a working LCA foreground model. The LCA model it generates can be visualised/edited in [lcopt](http://lcopt.readthedocs.io) and analysed using [Brightway2](http://brightwaylca.org/).
 
+#### LiSET
+[majeau-bettez/LiSET](https://github.com/majeau-bettez/LiSET) -
+Python-module with clustering tools for the Lifecycle Screening of Emerging Technology (LiSET) framework
+
 ### Data
 
 #### Wurst
