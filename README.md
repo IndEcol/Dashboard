@@ -150,7 +150,10 @@ Python class for dynamic stock modelling. Supports inflow-driven and stock-drive
 [MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
 
-[dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample. 
+[dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample.
+
+[empa-tsl/PMFA](https://github.com/empa-tsl/PMFA) -
+Base functions for performing a Probabilistic MFA
 
 [Xeelk/pymfa2](https://bitbucket.org/Xeelk/pymfa2/src/master/) -
 Tool for probabilistic modelling of dynamic MFA studies
