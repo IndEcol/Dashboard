@@ -60,6 +60,9 @@ Forward-looking Environmentally-extended Multi-Regional Input-Output model based
 [a-altimiras-martin/MetabX](https://github.com/a-altimiras-martin/MetabX) -
 Python package for structural input-output analysis of dissipative systems (either economic or ecological)
 
+[CIRAIG/OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) -
+Python to create symmetric Environmentally Extended Input-Output tables for Canada.
+
 ## Life Cycle Assessment
 
 ### Software
