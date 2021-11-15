@@ -51,6 +51,12 @@ Python interface to the Intel MKL Pardiso library to solve large sparse linear s
 [abhoopathy/spa_viz](https://github.com/abhoopathy/spa_viz) - 
 Structural path analysis visualizer. A project for H. Scott Matthews of the Carnegie Mellon Civil Engineering Department. 
 
+[kswiebe/GMRIOuncertainties](https://github.com/kswiebe/GMRIOuncertainties) - 
+MATLAB-scripts used to estimate uncertainties in the economic data in some of the Global Multi-Regional Input-Output databases
+
+[kswiebe/FEMRIOv1_EXIOfuturesIEAETP](https://github.com/kswiebe/GMRIOuncertainties) - 
+Forward-looking Environmentally-extended Multi-Regional Input-Output model based on EXIOBASE3 and scenarios from the IEA ETP 2015
+
 ## Life Cycle Assessment
 
 ### Software
