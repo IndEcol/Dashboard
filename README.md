@@ -14,6 +14,7 @@ Here you find a list of repositories that are relevant for industrial ecology re
 ## Input-Output Analysis
 [SESAM/MARIO](https://github.com/SESAM-Polimi/MARIO) -
 A python package for scenario analysis through IO databases and IO database handling including Supply and Use, Input output, single region, multi region, monetary and hybrid tables.
+
 [npspringer/WorldTradeModel](https://github.com/npspringer/WorldTradeModel) - 
 Python code for the World Trade Model, a linear programming model utilizing input-output economics.  This version includes the Rectangular Choice-of-Technology (RCOT) as well as the option to solve for bilateral trade (WTMBT)
 
@@ -120,6 +121,9 @@ Tool for probabilistic modelling of dynamic MFA studies
 
 [ODYM](https://github.com/IndEcol/ODYM) - 
 Open dynamic material systems model (ODYM). Framework for dynamic MFA models with multiple aspects (products, regions, materials, alloys, elements, ...). Python classes for MFA systems, stocks, flows, model parameters, and dynamic stock modelling. Platform for organizing MFA systems and data to build custom-made MFA models of any resolution and complexity.
+
+[ODYM-RECC](https://github.com/YaleCIE/RECC-ODYM) - 
+Open framework for assessing resource efficiency strategies for industry and end-use sectors using the dynamic material systems model (ODYM). Currently working for residential buildings and passenger vehicles.
 
 [dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
 Python class for dynamic stock modelling. Supports inflow-driven and stock-driven models.
