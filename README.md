@@ -12,7 +12,8 @@ Here you find a list of repositories that are relevant for industrial ecology re
 * [Models from other commmunities](#Models-from-other-communities)
 
 ## Input-Output Analysis
-
+[SESAM/MARIO](https://github.com/SESAM-Polimi/MARIO) -
+A python package for scenario analysis through IO databases and IO database handling including Supply and Use, Input output, single region, multi region, monetary and hybrid tables.
 [npspringer/WorldTradeModel](https://github.com/npspringer/WorldTradeModel) - 
 Python code for the World Trade Model, a linear programming model utilizing input-output economics.  This version includes the Rectangular Choice-of-Technology (RCOT) as well as the option to solve for bilateral trade (WTMBT)
 
