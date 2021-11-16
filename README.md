@@ -51,6 +51,18 @@ Python interface to the Intel MKL Pardiso library to solve large sparse linear s
 [abhoopathy/spa_viz](https://github.com/abhoopathy/spa_viz) - 
 Structural path analysis visualizer. A project for H. Scott Matthews of the Carnegie Mellon Civil Engineering Department. 
 
+[kswiebe/GMRIOuncertainties](https://github.com/kswiebe/GMRIOuncertainties) - 
+MATLAB-scripts used to estimate uncertainties in the economic data in some of the Global Multi-Regional Input-Output databases
+
+[kswiebe/FEMRIOv1_EXIOfuturesIEAETP](https://github.com/kswiebe/GMRIOuncertainties) - 
+Forward-looking Environmentally-extended Multi-Regional Input-Output model based on EXIOBASE3 and scenarios from the IEA ETP 2015
+
+[a-altimiras-martin/MetabX](https://github.com/a-altimiras-martin/MetabX) -
+Python package for structural input-output analysis of dissipative systems (either economic or ecological)
+
+[CIRAIG/OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) -
+Python to create symmetric Environmentally Extended Input-Output tables for Canada.
+
 ## Life Cycle Assessment
 
 ### Software
@@ -89,6 +101,10 @@ Lcopt (**L**ife **C**ycle **opt**ions appraisal) is an LCA foreground modelling 
 #### Lcopt-cv
 
 [Lcopt-cv](https://github.com/pjamesjoyce/lcopt_cv) is an experimental piece of software which lets you take a photo of a hand-drawn process flow chart and, using computer vision techniques, automatically turns it into a working LCA foreground model. The LCA model it generates can be visualised/edited in [lcopt](http://lcopt.readthedocs.io) and analysed using [Brightway2](http://brightwaylca.org/).
+
+#### LiSET
+[majeau-bettez/LiSET](https://github.com/majeau-bettez/LiSET) -
+Python-module with clustering tools for the Lifecycle Screening of Emerging Technology (LiSET) framework
 
 ### Data
 
@@ -131,7 +147,13 @@ Python class for dynamic stock modelling. Supports inflow-driven and stock-drive
 [MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
 
-[dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample. 
+[dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample.
+
+[empa-tsl/PMFA](https://github.com/empa-tsl/PMFA) -
+Base functions for performing a Probabilistic MFA
+
+[Xeelk/pymfa2](https://bitbucket.org/Xeelk/pymfa2/src/master/) -
+Tool for probabilistic modelling of dynamic MFA studies
 
 ### Metabolism of Cities
 
