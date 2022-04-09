@@ -45,6 +45,9 @@ This repository provides R scripts for a Structural Path Analysis with WIOD. Ple
 [usepa/IO-Model-Builder](https://github.com/usepa/io-model-builder/) - 
 iomb is an open source Python library for creating environmentally extended input-output models (EEIO models) from CSV files in a simple data format. It includes functions to calculate different result types (e.g. life cycle assessment results, direct and upstream contributions, etc.) from such models and convert them into JSON-LD data packages that can be imported into openLCA.
 
+[usepa/useeior](https://github.com/USEPA/useeior) - 
+`useeior` is an open source R package for building and using [USEEIO models](https://www.epa.gov/land-research/us-environmentally-extended-input-output-useeio-models). Users can build USEEIO models from given or user-specified model configuration and optional hybridization specifications. Functions in `useeior` automatically performs assembly of economic and environmental data and matrix calculations. Model results can be exported to desired formats including JSON, CSV and XLSX for use in further applications. `useeior` is a core component of the [USEEIO Modeling Framework](https://github.com/USEPA/useeio).
+
 [Paradiso-Project](https://github.com/haasad/PyPardisoProject) -
 Python interface to the Intel MKL Pardiso library to solve large sparse linear systems of equations. Use PyPardiso with the anaconda python distribution (use miniconda if you need to install it). PyPardiso makes use of the Intel Math Kernel Library that is included for free with conda and therefore doesn't work with other distributions (at least for the moment).
 
