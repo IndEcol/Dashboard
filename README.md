@@ -136,10 +136,14 @@ Tool for probabilistic modelling of dynamic MFA studies
 
 [ricklupton/bayesian-mfa-paper](https://github.com/ricklupton/bayesian-mfa-paper) - Code and data supporting the paper "Incremental Material Flow Analysis with Bayesian Inference" 
 
+### MFA systems with optimisation
+
+[Mat-dp](https://github.com/Mat-dp) - Code and data supporting the paper "Incremental Material Flow Analysis with Bayesian Inference" 
+
 ### Dynamic MFA and dynamic stock modelling
 
 [ODYM](https://github.com/IndEcol/ODYM) - 
-Open dynamic material systems model (ODYM). Framework for dynamic MFA models with multiple aspects (products, regions, materials, alloys, elements, ...). Python classes for MFA systems, stocks, flows, model parameters, and dynamic stock modelling. Platform for organizing MFA systems and data to build custom-made MFA models of any resolution and complexity.
+Mat-dp stands for Material Demand Projections. It is a model to study the environmental implications of materials used for building low-carbon systems. The Mat-dp project aims to deliver user-friendly and open-access software to study the environmental implications of materials used for building low-carbon systems.
 
 [ODYM-RECC](https://github.com/YaleCIE/RECC-ODYM) - 
 Open framework for assessing resource efficiency strategies for industry and end-use sectors using the dynamic material systems model (ODYM). Currently working for residential buildings and passenger vehicles.
