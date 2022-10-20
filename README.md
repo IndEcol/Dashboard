@@ -127,7 +127,15 @@ Supporting code & data for the article [Semantic catalogs for life cycle assessm
 * [bkuczenski/lca-tools](https://github.com/bkuczenski/lca-tools)
 * [bkuczenski/lca-tools-datafiles](https://github.com/bkuczenski/lca-tools-datafiles)
 
+#### Life Cycle Impact Assessment Methods
+
+The [LCIAformatter](https://github.com/USEPA/lciaformatter) acquires life cycle impact assessment method characterization factors from various providers, optionally maps the associated flows to the [Federal LCA Commons Elementary Flow List](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List), and provides them in a standardized format. 
+
 ## Material Flow Analysis
+
+### Flow data provision
+
+The Flow Sector Attribution [flowsa](https://github.com/USEPA/flowsa) Python package collects, standardizes and attributes flows of resources, wastes, emissions, materials, labor, etc. to sectors to produce standard flow-by-sector datasets.
 
 ### Data reconciliation and probabilistic modelling
 
