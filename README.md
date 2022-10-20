@@ -133,9 +133,9 @@ The [LCIAformatter](https://github.com/USEPA/lciaformatter) acquires life cycle 
 
 ## Material Flow Analysis
 
-### Flow data provision
+### Data provision
 
-The Flow Sector Attribution [flowsa](https://github.com/USEPA/flowsa) Python package collects, standardizes and attributes flows of resources, wastes, emissions, materials, labor, etc. to sectors to produce standard flow-by-sector datasets.
+[FLOWSA](https://github.com/USEPA/flowsa) - A Python package collects source data on flows of resources, wastes, emissions, materials, labor, etc. associated with provider-defined activities, standardizes them, and supports flow sector attribution models that combine sources to attribute flows to sectors, and produces from those models standard flow-by-sector datasets.
 
 ### Data reconciliation and probabilistic modelling
 
