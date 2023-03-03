@@ -20,7 +20,7 @@ A python package for scenario analysis through IO databases and IO database hand
 Python code for the World Trade Model, a linear programming model utilizing input-output economics.  This version includes the Rectangular Choice-of-Technology (RCOT) as well as the option to solve for bilateral trade (WTMBT)
 
 [Pymrio](https://github.com/IndEcol/pymrio) - 
-Pymrio is an open-source Python tool for Environmentally Extended Multi-Regional Input-Output (EE MRIO) analysis. It provides a high-level abstraction layer for global EE MRIO databases, enabling a harmonized approach towards common EE MRIO data tasks. [https://openresearchsoftware.metajnl.com/articles/10.5334/jors.251](cite with Stadler 2021)
+Pymrio is an open-source Python tool for Environmentally Extended Multi-Regional Input-Output (EE MRIO) analysis. It provides a high-level abstraction layer for global EE MRIO databases, enabling a harmonized approach towards common EE MRIO data tasks. [cite with Stadler 2021](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.251)
 
 [R|E|A|L PyIO](http://www.real.illinois.edu/pyio/) - 
 PyIO is a module for Input-Output analysis, written in Python, a general-purpose open source computer programming language. Next to standard IO techniques PyIO also features matrix updating with the RAS method, key sector analysis, output decomposition analysis, and multiplier product matrix analysis.
@@ -237,7 +237,7 @@ The Industrial Ecology Ontology(IEO): the ontology to represent the knowledge of
 Official repository for Citation Style Language (CSL) citation styles.
 
 [IndEcol/country_converter](https://github.com/IndEcol/country_converter) - 
-The country converter (coco) - a Python package for converting country names between different classifications and between different naming versions. [https://joss.theoj.org/papers/10.21105/joss.00332](cite with Stadler 2017)
+The country converter (coco) - a Python package for converting country names between different classifications and between different naming versions. [cite with Stadler 2017](https://joss.theoj.org/papers/10.21105/joss.00332)
 
 [konstantinstadler/sci_python_template](https://github.com/konstantinstadler/sci_python_template) - 
 Python template for scientific scripts
