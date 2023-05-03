@@ -132,6 +132,8 @@ Supporting code & data for the article [Semantic catalogs for life cycle assessm
 
 The [LCIAformatter](https://github.com/USEPA/lciaformatter) acquires life cycle impact assessment method characterization factors from various providers, optionally maps the associated flows to the [Federal LCA Commons Elementary Flow List](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List), and provides them in a standardized format. 
 
+[IMPACT World+](https://github.com/CIRAIG/IWP_Reborn) is a life cycle impact assessment methodology which characterizes thousands of substances spanning across many compartments and sub-compartments of the environment. It differentiates 45 impact categories, both at midpoint and damage levels. It also supports the regionalization of the environmental impacts.
+
 ## Material Flow Analysis
 
 ### Data provision
@@ -241,6 +243,8 @@ The country converter (coco) - a Python package for converting country names bet
 
 [konstantinstadler/sci_python_template](https://github.com/konstantinstadler/sci_python_template) - 
 Python template for scientific scripts
+
+[IE_ML_mapping](https://github.com/CIRAIG/IE_ML_mapping) is a Python module relying on machine learning to automatically create mappings between different classifications used within the Industrial ecology community. 24 classifications are covered so far, spanning from databases (ecoinvent, exiobase, etc.) to life cycle impact assessment methods (IW+, UseTox, EF, etc.) to product/industry classifications (CPC, NAICS, etc.)
 
 
 ## <a name="Models-from-other-communities"></a> Models from other communities
