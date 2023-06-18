@@ -1,4 +1,4 @@
-# Welcome to the industrial ecology dashboard on GitHub!
+# Welcome to the Industrial Ecology Dashboard on GitHub!
 
 Here you find a list of repositories that are relevant for industrial ecology researchers. Feel free to add relevant content! 
 
