@@ -2,6 +2,8 @@
 
 Here you find a list of repositories that are relevant for industrial ecology researchers. Feel free to add relevant content! 
 
+Also check out https://opensustain.tech for more open sustainability software.
+
 ## Contents
 * [Input-Output Analysis](#input-output-analysis)
 * [Life Cycle Assessment](#life-cycle-assessment)
