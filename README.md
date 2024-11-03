@@ -142,6 +142,8 @@ The [LCIAformatter](https://github.com/USEPA/lciaformatter) acquires life cycle 
 
 [FLOWSA](https://github.com/USEPA/flowsa) - A Python package collects source data on flows of resources, wastes, emissions, materials, labor, etc. associated with provider-defined activities, standardizes them, and supports flow sector attribution models that combine sources to attribute flows to sectors, and produces from those models standard flow-by-sector datasets.
 
+[Material-Composition-LCA](https://github.com/levonamatuni/material-composition-lca) - Estimating material composition of products using LCI databases. Developed at the Institute of Environmental Sciences (CML) at Leiden University
+
 ### Data reconciliation and probabilistic modelling
 
 [PYMFA 2.1 by Esther Thiébaud at EMPA](https://bitbucket.org/Xeelk/pymfa2/src) - 
