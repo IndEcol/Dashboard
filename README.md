@@ -169,6 +169,9 @@ Python class for dynamic stock modelling. Supports inflow-driven and stock-drive
 [MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
 
+[pik-piam/simson](https://github.com/pik-piam/simson) -
+SIMSON (Simulating In-Use Material Stocks with the ODYM Network). SIMSON is a Python-based dynamic MFA model of the steel cycle that covers steel production along two routes, via basic oxygen-(BOF) or electric arc furnace (EAF). It covers four end-use categories, eight steel-scrap categories, and twelve regions. 
+
 [dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample.
 
 [empa-tsl/PMFA](https://github.com/empa-tsl/PMFA) -
