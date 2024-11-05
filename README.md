@@ -236,6 +236,9 @@ So far it contains approximaterly 300 material intensity datasets in kg/m2. This
 
 ## <a name="miscellaneous"></a> Miscellaneous 
 
+[simschul/disaggR](https://github.com/simschul/disaggR) - 
+disaggR is an R-package that helps you with uncertainty propagation when data disaggregation is involved. Data disaggregation usually involves splitting one data point into several disaggregates using proxy data. It is a common problem in many different research disciplines.
+
 [cfrancois7/IEO-ontology](https://github.com/cfrancois7/IEO-ontology) - 
 The Industrial Ecology Ontology(IEO): the ontology to represent the knowledge of the Industrial Ecology. Includes the different knowledge items of life cycle assessment (LCA), Supply-Use Tables (SUT) and Input-Output Tables (IOT).
 
