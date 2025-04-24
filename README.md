@@ -169,8 +169,6 @@ Python class for dynamic stock modelling. Supports inflow-driven and stock-drive
 [MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
 
-[pik-piam/simson](https://github.com/pik-piam/simson) -
-SIMSON (Simulating In-Use Material Stocks with the ODYM Network). SIMSON is a Python-based dynamic MFA model of the steel cycle that covers steel production along two routes, via basic oxygen-(BOF) or electric arc furnace (EAF). It covers four end-use categories, eight steel-scrap categories, and twelve regions. 
 
 [dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample.
 
@@ -179,6 +177,16 @@ Base functions for performing a Probabilistic MFA
 
 [Xeelk/pymfa2](https://bitbucket.org/Xeelk/pymfa2/src/master/) -
 Tool for probabilistic modelling of dynamic MFA studies
+
+[pik-piam/flodym](https://github.com/pik-piam/flodym) -
+MFA-Library based on the concepts of ODYM. Features include: 
+- Arithmetic operations between flows, stocks and parameters with automatic handling of included dimensions: `use_to_recycling[...] = use.outflow * collection_rate`, which vastly increases code flexibility
+- Seamless integration of multi-dimensional dynamic stock models into MFA systems
+- Versatile performance-optimized input and output functionality 
+- [Extensive documentation](https://flodym.readthedocs.io/) including howto's and an API reference, and simple installation via `pip install flodym`
+
+[pik-piam/simson](https://github.com/pik-piam/simson) -
+SIMSON (Simulating In-Use Material Stocks with the ODYM Network). SIMSON is a dynamic MFA model of past and future steel, plastics, and cement cycles. It is based on the flodym library. It takes a stock driven approach, has a temporal scope until 2100 and covers 21 world regions. It is developed to be coupled to the integrated assessment model REMIND. 
 
 ### Metabolism of Cities
 
