@@ -229,7 +229,8 @@ Software developed for the article [Building capacity for sustainable regional i
 
 BONSAI (Big Open Network for Sustainability Assessment Information) is an open project to create a framework for supplying reliable, unbiased sustainability information on products – “product footprints” – readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
 * [BONSAI Homepage](https://bonsai.uno/)
-* [BONSAI code and Wiki](https://github.com/BONSAMURAIS/bonsai)
+* [BONSAI Ontology](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework)
+* [BONSAI Code](https://gitlab.com/bonsamurais/bonsai)
 
 ### Liberated data 
 
