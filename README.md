@@ -153,15 +153,22 @@ Tool for probabilistic modelling of dynamic MFA studies
 
 ### MFA systems with optimisation
 
-[Mat-dp](https://github.com/Mat-dp) - Code and data supporting the paper "Incremental Material Flow Analysis with Bayesian Inference" 
+[Mat-dp](https://github.com/Mat-dp) - Mat-dp stands for Material Demand Projections. It is a model to study the environmental implications of materials used for building low-carbon systems. The Mat-dp project aims to deliver user-friendly and open-access software to study the environmental implications of materials used for building low-carbon systems. 
 
 ### Dynamic MFA and dynamic stock modelling
 
 [ODYM](https://github.com/IndEcol/ODYM) - 
-Mat-dp stands for Material Demand Projections. It is a model to study the environmental implications of materials used for building low-carbon systems. The Mat-dp project aims to deliver user-friendly and open-access software to study the environmental implications of materials used for building low-carbon systems.
+ODYM is an open source framework for material systems modeling programmed in Python. The description of systems, processes, stocks, flows, and parameters is object-based, which facilitates the development of modular software and testing routines for individual model blocks. ODYM MFA was developed for large MFA models that span many years (historic and future) and where different products, components, sub-components, materials, alloys, waste, and chemical elements need to be traced simultaneously. ODYM features a new data structure for material flow analysis; all input and output data are stored in a standardized file format and can thus be exchanged across projects. It also comes with an extended library for dynamic stock modelling, which can also be used as standalone script.
+
+[pik-piam/flodym](https://github.com/pik-piam/flodym) -
+MFA-Library based on the concepts of ODYM. Features include: 
+- Arithmetic operations between flows, stocks and parameters with automatic handling of included dimensions: `use_to_recycling[...] = use.outflow * collection_rate`, which vastly increases code flexibility
+- Seamless integration of multi-dimensional dynamic stock models into MFA systems
+- Versatile performance-optimized input and output functionality 
+- [Extensive documentation](https://flodym.readthedocs.io/) including howto's and an API reference, and simple installation via `pip install flodym`
 
 [ODYM-RECC](https://github.com/YaleCIE/RECC-ODYM) - 
-Open framework for assessing resource efficiency strategies for industry and end-use sectors using the dynamic material systems model (ODYM). Currently working for residential buildings and passenger vehicles.
+Open framework for assessing resource efficiency strategies for industry and end-use sectors using the dynamic material systems model (ODYM). Currently working for residential buildings, non-residential buildings, appliances, and passenger vehicles.
 
 [dynamic_stock_model](https://github.com/stefanpauliuk/dynamic_stock_model) - 
 Python class for dynamic stock modelling. Supports inflow-driven and stock-driven models.
@@ -177,13 +184,6 @@ Base functions for performing a Probabilistic MFA
 
 [Xeelk/pymfa2](https://bitbucket.org/Xeelk/pymfa2/src/master/) -
 Tool for probabilistic modelling of dynamic MFA studies
-
-[pik-piam/flodym](https://github.com/pik-piam/flodym) -
-MFA-Library based on the concepts of ODYM. Features include: 
-- Arithmetic operations between flows, stocks and parameters with automatic handling of included dimensions: `use_to_recycling[...] = use.outflow * collection_rate`, which vastly increases code flexibility
-- Seamless integration of multi-dimensional dynamic stock models into MFA systems
-- Versatile performance-optimized input and output functionality 
-- [Extensive documentation](https://flodym.readthedocs.io/) including howto's and an API reference, and simple installation via `pip install flodym`
 
 [pik-piam/simson](https://github.com/pik-piam/simson) -
 SIMSON (Simulating In-Use Material Stocks with the ODYM Network). SIMSON is a dynamic MFA model of past and future steel, plastics, and cement cycles. It is based on the flodym library. It takes a stock driven approach, has a temporal scope until 2100 and covers 21 world regions. It is developed to be coupled to the integrated assessment model REMIND. 
