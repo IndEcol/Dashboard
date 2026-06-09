@@ -112,6 +112,9 @@ Lcopt (**L**ife **C**ycle **opt**ions appraisal) is an LCA foreground modelling 
 [majeau-bettez/LiSET](https://github.com/majeau-bettez/LiSET) -
 Python-module with clustering tools for the Lifecycle Screening of Emerging Technology (LiSET) framework
 
+#### SALCA
+[agroscope-ch/salca](https://github.com/agroscope-ch/salca) - Python code implementing the Swiss Agricultural Life Cycle Assessment (SALCA) method
+
 ### Data
 
 #### Wurst
