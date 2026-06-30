@@ -18,6 +18,9 @@ Also check out https://opensustain.tech for more open sustainability software.
 [SESAM/MARIO](https://github.com/SESAM-Polimi/MARIO) -
 A python package for scenario analysis through IO databases and IO database handling including Supply and Use, Input output, single region, multi region, monetary and hybrid tables.
 
+[MatMat](https://github.com/AntoineTeixeira/matmat-ademe) - 
+Modular open-source Python framework for prospective Environmentally-Extended Input-Output (EEIO) modelling and environmental and socio-economic impact assessment.
+
 [npspringer/WorldTradeModel](https://github.com/npspringer/WorldTradeModel) - 
 Python code for the World Trade Model, a linear programming model utilizing input-output economics.  This version includes the Rectangular Choice-of-Technology (RCOT) as well as the option to solve for bilateral trade (WTMBT)
 
