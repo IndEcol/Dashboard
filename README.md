@@ -163,6 +163,8 @@ Tool for probabilistic modelling of dynamic MFA studies
 
 ### Dynamic MFA and dynamic stock modelling
 
+[training material for dynamic_material flow analysis in Python](https://github.com/stefanpauliuk/dynamic_stock_model](https://github.com/jerrysong0128/ISIE-SEM_Summer_School_2026) This training material for dynamic_material flow analysis in Python was developed for the 2026 Bath summer school. It uses some of the tools below and covers a general introduction as well as three deep dives: flodym MFA system programming, Monte-Carlo simulations, and linking material cycle modelling to energy system models, using the example of the GloBus-Temoa interface.
+
 [ODYM](https://github.com/IndEcol/ODYM) - 
 ODYM is an open source framework for material systems modeling programmed in Python. The description of systems, processes, stocks, flows, and parameters is object-based, which facilitates the development of modular software and testing routines for individual model blocks. ODYM MFA was developed for large MFA models that span many years (historic and future) and where different products, components, sub-components, materials, alloys, waste, and chemical elements need to be traced simultaneously. ODYM features a new data structure for material flow analysis; all input and output data are stored in a standardized file format and can thus be exchanged across projects. It also comes with an extended library for dynamic stock modelling, which can also be used as standalone script.
 
@@ -181,7 +183,6 @@ Python class for dynamic stock modelling. Supports inflow-driven and stock-drive
 
 [MaTrace_Global](https://github.com/stefanpauliuk/MaTrace_Global) - 
 Python model code for MaTrace Global, a supply-driven dynamic stock model to trace end-of-life materials through global value chains
-
 
 [dpmfa-simulator](https://pypi.python.org/pypi/dpmfa-simulator) - The dpmfa framework supports the generation and use of dynamic probabilistic material flow models. It enables to model of time dynamic flow models on a period base. Incomplete knowledge about the true values of a system parameter about the absolute inflows to the system over time and the relative transfer coefficients for the flows between the system compartments is represented as Bayesian probability distribution. It is propagated to dependent model variables using Monte-Carlo simulation, while ensuring mass-balance in every element of the Monte-Carlo sample.
 
