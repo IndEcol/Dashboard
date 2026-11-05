@@ -150,6 +150,8 @@ The [LCIAformatter](https://github.com/USEPA/lciaformatter) acquires life cycle 
 
 [Material-Composition-LCA](https://github.com/levonamatuni/material-composition-lca) - Estimating material composition of products using LCI databases. Developed at the Institute of Environmental Sciences (CML) at Leiden University
 
+[BUD-MI](https://github.com/ML-IE/BUD-MI) - A template to collect and generate buildings’ material intensity data efficiently and effectively. Includes a streamlined building sampling protocol resulting in MI data that supports cumulative research (use of international standards and classifications for transferability and comparability). Also allows for bespoke result formatting to fit individual project needs.
+
 ### Data reconciliation and probabilistic modelling
 
 [PYMFA 2.1 by Esther Thiébaud at EMPA](https://bitbucket.org/Xeelk/pymfa2/src) - 
