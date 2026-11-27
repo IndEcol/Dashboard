@@ -152,6 +152,10 @@ The [LCIAformatter](https://github.com/USEPA/lciaformatter) acquires life cycle 
 
 [BUD-MI](https://github.com/ML-IE/BUD-MI) - A template to collect and generate buildings’ material intensity data efficiently and effectively. Includes a streamlined building sampling protocol resulting in MI data that supports cumulative research (use of international standards and classifications for transferability and comparability). Also allows for bespoke result formatting to fit individual project needs.
 
+[RASMI: Regional Assessment of buildings’ Material Intensities](https://github.com/TomerFishman/MaterialIntensityEstimator) - A framework to estimate comprehensive and consistent representative ranges of buildings' material intensities (kg/m^2). The dataset is reproducible, traceable, and updatable, using local data from the literature or synthetic data when required. Value ranges embody the inherent variability that exists in buildings.
+
+[MaterialCities](MaterialCities) - A dataset of the gross floor area and the mass of eight construction materials of the world’s buildings in high resolution and detail. It differentiates floor area (GFA) and material stocks (MS) by three building functions and five load-bearing structural types with region-specific construction archetypes using variant material intensity ranges that capture buildings materials’ inherent uncertainties and variabilities. Available as GIS GeoPackage, CSV, and a local-run web interface.
+
 ### Data reconciliation and probabilistic modelling
 
 [PYMFA 2.1 by Esther Thiébaud at EMPA](https://bitbucket.org/Xeelk/pymfa2/src) - 
